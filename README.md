@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @raymond5wrigh408
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript. 
+- 💞️ Driven to craft responsive and user-centric designs.
